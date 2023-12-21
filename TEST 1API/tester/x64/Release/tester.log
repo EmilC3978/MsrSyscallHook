@@ -1,0 +1,7 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  tester.cpp
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  tester.vcxproj -> C:\Users\REM\Desktop\PID_FILTER\TEST 1API\tester\x64\Release\tester.exe

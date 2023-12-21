@@ -1,0 +1,23 @@
+﻿  Building 'drvwasm' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\drvwasm.inf
+  Stamping [Version] section with DriverVer=05/16/2021,13.43.58.449
+  DriverMain.c
+  drvwasm.vcxproj -> C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm\drvwasm.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm\drvwasm.cat
+  

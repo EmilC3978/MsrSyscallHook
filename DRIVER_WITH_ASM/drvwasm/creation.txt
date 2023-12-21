@@ -1,0 +1,1 @@
+sc create driver binPath= "C:\Users\REM\Desktop\PID_FILTER\DRIVER_WITH_ASM\drvwasm\x64\Debug\drvwasm.sys" type= kernel

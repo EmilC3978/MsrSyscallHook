@@ -1,0 +1,2 @@
+C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm.sys
+C:\Users\REM\Desktop\DRIVER_WITH_ASM\drvwasm\Debug\drvwasm.pdb
